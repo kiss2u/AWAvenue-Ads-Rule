@@ -1,7 +1,7 @@
 #Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 
-#版本号: 1.4.9-release
-#上次更新日期: 2024-06-22
+#版本号: 1.5.0-release
+#上次更新日期: 2024-06-29
 
 #项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
@@ -14,7 +14,7 @@
 #This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
 #AD:
-#倾城极速 - 畅游世界，高速互联！官网：https://wcnmdmht.lol/sb 官网2：https://panel.qc02.xyz
+#倾城极速 - 畅游世界，高速互联！官网：https://panel.qqcjs.top 官网2：https://n3b53vrt.wcnmdmht.biz
 
 
 0.0.0.0 localhost
@@ -56,6 +56,7 @@
 0.0.0.0 adfilter.imtt.qq.com
 0.0.0.0 adguanggao.eee114.com
 0.0.0.0 adjust.cn
+0.0.0.0 adjust.com
 0.0.0.0 adkwai.com
 0.0.0.0 adlink-api.huan.tv
 0.0.0.0 adm.funshion.com
@@ -111,6 +112,8 @@
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 advertiseonbing.azureedge.net
 0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 advertising-api-fe.amazon.com
+0.0.0.0 advertising-api.amazon.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertising.yandex.ru
@@ -144,6 +147,8 @@
 0.0.0.0 analyze.lemurbrowser.com
 0.0.0.0 andrqd.play.aiseet.atianqi.com
 0.0.0.0 apd-pcdnwxlogin.teg.tencent-cloud.net
+0.0.0.0 apd-pcdnwxnat.teg.tencent-cloud.net
+0.0.0.0 apd-pcdnwxstat.teg.tencent-cloud.net
 0.0.0.0 api-access.pangolin-sdk-toutiao.com
 0.0.0.0 api-access.pangolin-sdk-toutiao1.com
 0.0.0.0 api-access.pangolin-sdk-toutiao2.com
@@ -179,11 +184,13 @@
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beizi.biz
+0.0.0.0 bianxian.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 bj.ad.track.66mobi.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 bugly.qq.com
 0.0.0.0 business-api.tiktok.com
+0.0.0.0 c.bidtoolads.com
 0.0.0.0 c.evidon.com
 0.0.0.0 c.gj.qq.com
 0.0.0.0 c.kuaiduizuoye.com
@@ -204,6 +211,12 @@
 0.0.0.0 collect.kugou.com
 0.0.0.0 commdata.v.qq.com
 0.0.0.0 config.chsmarttv.com
+0.0.0.0 conn-service-cn-03.allawntech.com
+0.0.0.0 conn-service-cn-04.allawntech.com
+0.0.0.0 conn-service-cn-05.allawntech.com
+0.0.0.0 conn-service-in-03.allawnos.com
+0.0.0.0 conn-service-in-04.allawnos.com
+0.0.0.0 conn-service-in-05.allawnos.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 csjplatform.com
@@ -260,6 +273,7 @@
 0.0.0.0 grs.platform.dbankcloud.ru
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h.trace.qq.com
+0.0.0.0 hanlanad.com
 0.0.0.0 henzanapp.com
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hiboard-drcn.ai.dbankcloud.cn
@@ -308,6 +322,7 @@
 0.0.0.0 launcher.smart-tv.cn
 0.0.0.0 launcherimg.smart-tv.cn
 0.0.0.0 lf3-ad-union-sdk.pglstatp-toutiao.com
+0.0.0.0 litchiads.com
 0.0.0.0 liveats-vod.video.ptqy.gitv.tv
 0.0.0.0 livemonitor.huan.tv
 0.0.0.0 livep.l.aiseet.atianqi.com
@@ -452,6 +467,7 @@
 0.0.0.0 sdk.cferw.com
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 sdk.hzsanjiaomao.com
+0.0.0.0 sdk.markmedia.com.cn
 0.0.0.0 sdk.mobads.adwangmai.com
 0.0.0.0 sdkconf.avlyun.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
@@ -530,6 +546,7 @@
 0.0.0.0 tracker.gitee.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
+0.0.0.0 tsvrv.com
 0.0.0.0 tvuser-ch.cedock.com
 0.0.0.0 tx-ad.a.yximgs.com
 0.0.0.0 tx-kmpaudio.pull.yximgs.com
@@ -596,6 +613,7 @@
 0.0.0.0 ws.sj.qq.com
 0.0.0.0 www42.zskwai.com
 0.0.0.0 wxa.wxs.qq.com
+0.0.0.0 wximg.wxs.qq.com
 0.0.0.0 wxsnsad.tc.qq.com
 0.0.0.0 wxsnsdy.wxs.qq.com
 0.0.0.0 wxsnsdythumb.wxs.qq.com
